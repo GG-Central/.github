@@ -28,6 +28,7 @@ This organization holds the software and infrastructure we build in-house to run
 | Project | What it does |
 |---|---|
 | **ggPOS** | A point-of-sale system made for gaming cafes, with built-in paywalling for PS5 consoles. |
+| **ggEngine** | A front-end kiosk app for gaming cafe PCs, built to run on PXE-booted, diskless stations. Players log in, launch games, and manage their sessions from one stable, centrally managed launcher. |
 | **ggConsole** | PS5 session control on a Raspberry Pi 4/5. Switches TV inputs through a custom HDMI smart switch to lock and unlock consoles. Works with ggPOS or any other POS system. |
 
 Watch this org to catch new releases.
