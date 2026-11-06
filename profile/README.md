@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./GG-Central-Logo-HD.png" alt="GG Central – Esports Gaming Hub" width="560">
+<img src="./GG-Central-GitHub-Banner.png" alt="GG Central – Esports Gaming Hub">
 <br><br>
  
 **The tech behind Waterloo's esports gaming hub.**
